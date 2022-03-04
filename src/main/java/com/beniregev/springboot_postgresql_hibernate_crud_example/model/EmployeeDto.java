@@ -1,0 +1,15 @@
+package com.beniregev.springboot_postgresql_hibernate_crud_example.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class EmployeeDto {
+    private String firstName;
+    private String lastName;
+    private String email;
+
+}
