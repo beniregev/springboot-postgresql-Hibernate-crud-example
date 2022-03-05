@@ -61,3 +61,19 @@ Follow these steps:
 
 #### YouTube Tutorial:
 * [Deploy Spring Boot PostgreSQL CRUD REST API Application to Heroku](https://www.youtube.com/watch?v=FHL0iZbil-o&ab_channel=JavaGuides)
+
+### Frontend (Client) Web application - Technical Stack:
+* HTML
+* SCSS
+* JavaScript / TypeScript
+* Angular 12
+
+### Frontend (Client) Web application - Development Steps:
+* Create an Angular 12 (2.0+) Web Application using "ng new <my-web-app-name>.
+* Create a NavBar to be sticky on top of all pages.
+* Create a Landing Page.
+* Create a Login Page.
+* Create a Users List
+* Create * User Details Page (redirect)
+* Create a Logout Successful Page
+* Deploy Frontend Web Application on Netlify.
