@@ -35,6 +35,19 @@ Technical Stack:
 YouTube Tutorial:
 * [Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Tutorial](https://www.youtube.com/watch?v=eWbGV3LLwVQ&t=0s&ab_channel=JavaGuides)
 
+### Java Backend (Server) Development Steps:
+
+* Create a Spring boot project in the IDE (IntelliJ IDEA) using Spring Initializer.
+* Create project packages structure: model, repository, service, exception, config, and controller.
+* Configuring PostgreSQL credentials.
+* Define domain entity, e.g., Employee.java
+* Create Spring Data JPA Repository, e.g., EmployeeRepository.java
+* Create Spring Service, e.g., EmployeeService.java
+* Create Spring Rest Controller, e.g., EmployeeController.java
+* Exception (Error) Handling for RESTful services.
+* Running Application.
+* Testing REST APIs via Postman client.
+
 
 ### Deploying a Springboot application to Heroku
 
