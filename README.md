@@ -68,6 +68,18 @@ Follow these steps:
 * JavaScript / TypeScript
 * Angular 12
 
+### Backend (Server) Java Application - Development Steps:
+* Create Spring boot project in your IDE using Springboot Initializer
+* Create project structure
+* Configure PostgreSQL
+* Define domain entity - Employee.java
+* Create Spring Data Repository - EmployeeRepository.java
+* Create Spring Service class - EmployeeService.java
+* Create Spring Rest Controller - EmployeeController.java
+* Exception (Error) Handling for RESTful Services
+* Running Application
+* Testing REST API via Postman Client
+
 ### Frontend (Client) Web application - Development Steps:
 * Create an Angular 12 (2.0+) Web Application using "ng new <my-web-app-name>.
 * Create a NavBar to be sticky on top of all pages.
